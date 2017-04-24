@@ -1,0 +1,21 @@
+##### Mice #####
+(C) 2017 P. H. Madore <moonpunter@gmail.com> phm.link
+Based on Ice (C) 2010 - 2014 -- Kendall Weaver <kendall@peppermintos.com>
+
+Released under GNU General Public License version 2
+
+#####
+
+Application to easily add and remove Mozilla, Chromium, or Chrome site specific
+browsers in Debian and Ubuntu based Linux distributions. Ice
+was originally created for Peppermint OS Ice and is now used
+as the default SSB application in Peppermint OS since the
+two branches of the OS merged for Peppermint Two. Mice aims to be integrated into
+XFCE in much the same way.
+
+#####
+
+--
+
+More to follow.
+
